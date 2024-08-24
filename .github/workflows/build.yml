@@ -3,7 +3,7 @@
 
 name: Build Apple Color Emoji font
 
-on: pull_request
+on: workflow_dispatch
 
 jobs:
   build:
